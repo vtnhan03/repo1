@@ -1,1 +1,3 @@
 Noi dung C
+
+beta
